@@ -107,6 +107,7 @@ or use the project page at http://sourceforge.net/projects/pyfuzzy
 ACKNOWLEDGMENTS
 ---------------
 
+
 Main contributors:
   * René Liebscher (2002-2009): current maintainer
         - initial version
